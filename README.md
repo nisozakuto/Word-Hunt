@@ -1,6 +1,14 @@
-<<<<<<< HEAD
+Packages and Libraries used:
+
+- Axios
+- React
+- Dictionary API
+- Material UI
+
 # Word-Hunt
+
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 94cc649... Initialize project using Create React App
+
+> > > > > > > 94cc649... Initialize project using Create React App
